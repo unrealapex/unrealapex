@@ -1,6 +1,6 @@
 ### Hi There
 
-> I'm a student who has start to do open source as a hobby
+> I'm a student who wants open source as a hobby
 > 
 > Pronouns: he\him
 > 
