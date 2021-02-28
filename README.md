@@ -1,10 +1,10 @@
 ### Hi There
 
-> I'm a student who wants open source as a hobby
+> I’m currently learning open source
 > 
 > Pronouns: he\him
 > 
-> I’m currently learning open source
+
 
 
 <!--
