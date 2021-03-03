@@ -1,6 +1,10 @@
-### Hi There
+### Hi There 👋
 
-> I’m currently learning open source
+> I’m a student that does programming and open source as a hobby
+> 
+> I'm currently learning the magic of open source 
+> 
+> Unrelated Facts: I have a wierd obscession with space  and Team Fortess 2
 > 
 > Pronouns: he\him
 > 
