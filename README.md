@@ -4,7 +4,7 @@
 > 
 > I'm currently learning the magic of open source 
 > 
-> Unrelated Facts: I have a wierd obscession with space  and Team Fortress 2
+> Unrelated Facts: I have a wierd obscession with space ☄️ and Team Fortress 2
 > 
 > Pronouns: he\him
 > 
