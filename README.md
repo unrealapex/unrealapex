@@ -4,7 +4,7 @@
 > 
 > I'm currently learning the magic of open source 
 > 
-> Unrelated Facts: I have a wierd obscession with space ☄️ and Team Fortress 2
+> Unrelated Fact: My Favorite Book Is *Python For Dummies By John Shovic and Alan Simpson*
 > 
 > Pronouns: he\him
 > 
