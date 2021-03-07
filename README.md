@@ -4,7 +4,7 @@
 > 
 > I'm currently learning the magic of open source 
 > 
-> Unrelated Fact: My Favorite Book Is *Python For Dummies By John Shovic and Alan Simpson*
+> Unrelated Fact: My Favorite Book Is *Python For Dummies* By John Shovic and Alan Simpson
 > 
 > Pronouns: he\him
 > 
