@@ -2,7 +2,7 @@
 
 > I’m a student that does programming and open source as a hobby
 > 
-> I'm currently learning the magic of open source 
+> I'm currently learning the magic of open source and how to develop Android apps
 > 
 > Unrelated Fact: My Favorite Book Is *Python For Dummies* By John Shovic and Alan Simpson
 > 
