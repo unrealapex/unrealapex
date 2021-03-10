@@ -3,7 +3,7 @@
 ### About Me
 > I’m a student that does programming and open source as a hobby
 > 
->I know `Python`, `Java`, and a little bit of `Html`, `CSS`, and `Javascript`, but `Python` is my strong suit.
+>I know Python, Java, and a little bit of Html, CSS, and Javascript, but Python is my strong suit.
 >
 > I'm currently learning the magic of open source and how to develop Android apps
 > 
