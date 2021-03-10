@@ -1,4 +1,4 @@
-### Hi There 👋
+## Hi There 👋
 
 ### About Me
 > I’m a student that does programming and open source as a hobby
