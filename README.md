@@ -1,10 +1,17 @@
 ### Hi There 👋
 
+### About Me
 > I’m a student that does programming and open source as a hobby
 > 
+>I know `Python`, `Java`, and a little bit of `Html`, `CSS`, and `Javascript`, but `Python` is my strong suit.
+>
 > I'm currently learning the magic of open source and how to develop Android apps
 > 
-> Unrelated Fact: My Favorite Book Is "*Python For Dummies*" By John Shovic and Alan Simpson
+> My favorite text editors are Visual Studio Code and Vim
+> 
+> My favorite book is "*Python For Dummies*" by John Shovic and Alan Simpson
+> 
+> My favorite games are Team Fortress 2, Valorant, Counter Strike Global Offensive, Fortnite, and Chess
 > 
 > Pronouns: he\him
 > 
