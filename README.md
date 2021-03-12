@@ -1,9 +1,7 @@
 ## Hi There 👋
 
 ### About Me
-> I’m a student that does programming and open source as a hobby
-> 
->I know Python, Java, and a little bit of Html, CSS, and Javascript, but Python is my strong suit.
+> ![](https://img.shields.io/badge/Languages%20I%20Know-%20-lightgrey)  ![](https://img.shields.io/badge/-Python-lightgrey) ![](https://img.shields.io/badge/-Java-lightgrey)
 >
 > I'm currently learning the magic of open source and how to develop Android apps
 > 
@@ -12,9 +10,8 @@
 > My favorite book is "*Python For Dummies*" by John Shovic and Alan Simpson
 > 
 > 
-> Pronouns: he\him
+> Pronouns: he\him 
 > 
-
 
 
 <!--
