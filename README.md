@@ -1,7 +1,8 @@
 ## Hi There 👋
 
 ### About Me
-> ![](https://img.shields.io/badge/Languages%20I%20Know-%20-lightgrey)  ![](https://img.shields.io/badge/-Python-lightgrey) ![](https://img.shields.io/badge/-Java-lightgrey)
+> ![](https://img.shields.io/badge/Languages%20I%20Know-Python%20%7C%20Java-lightgrey) 
+> 
 >
 > I'm currently learning the magic of open source and how to develop Android apps
 > 
