@@ -7,7 +7,7 @@
 >
 > I'm currently learning the magic of open source and how to develop Android apps
 > 
-> My favorite text editors are Visual Studio Code and Vim
+> My favorite text editors are [Visual Studio Code](https://github.com/microsoft/vscode) and [Vim](https://github.com/vim/vim)
 > 
 > My favorite book is "*Python For Dummies*" by John Shovic and Alan Simpson
 > 
