@@ -11,7 +11,6 @@
 > 
 > My favorite book is "*Python For Dummies*" by John Shovic and Alan Simpson
 > 
-> My favorite games are Team Fortress 2, Valorant, Counter Strike Global Offensive, Fortnite, and Chess
 > 
 > Pronouns: he\him
 > 
