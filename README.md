@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 ### About Me
-> ![](https://img.shields.io/badge/Languages%20I%20Know-Python%20%7C%20Java-lightgrey) 
+> ![](https://img.shields.io/badge/Languages%20I%20Know-%F0%9F%90%8D%20Python%20%7C%20%E2%98%95%20Java-lightgrey) 
 > 
 >![](https://img.shields.io/badge/Libraries%20and%20%20Frameworks%20I%20Use%20-Open%20CV%7C%20Tensorflow%20%7C%20Pytorch%20%7C%20Numpy%20%7C%20Matplotlib%20%7C%20Pandas%20%7C%20Carla%20-lightgrey)
 >
