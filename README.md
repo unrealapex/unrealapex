@@ -10,7 +10,6 @@
 > 
 >![](https://img.shields.io/badge/Libraries%20and%20%20Frameworks%20I%20Use%20-Open%20CV%7C%20Tensorflow%20%7C%20Pytorch%20%7C%20Numpy%20%7C%20Matplotlib%20%7C%20Pandas%20%7C%20Carla%20Sim%20%7C%20PyAutoGui-lightgrey)
 >
-> I'm currently learning the magic of open source and how to develop Android apps
 > 
 > 
 > 
