@@ -12,13 +12,11 @@
 >
 > I'm currently learning the magic of open source and how to develop Android apps
 > 
-> My favorite text editors are [Visual Studio Code](https://github.com/microsoft/vscode) and [Vim](https://github.com/vim/vim)
-> 
-> My favorite book is "*Python For Dummies*" by John Shovic and Alan Simpson
 > 
 > 
 > Pronouns: he\him 
 > 
+>![Profile View Counter](https://komarev.com/ghpvc/?username=unrealapex)
 
 
 <!--
@@ -35,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: ...
 -->
+
+
