@@ -1,6 +1,4 @@
-## Hi There 👋
-
-### About Me
+## About Me
 >
 >[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex)](https://github.com/anuraghazra/github-readme-stats)
 >
