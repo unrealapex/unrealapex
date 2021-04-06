@@ -7,9 +7,12 @@
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex)](https://github.com/anuraghazra/github-readme-stats)
 >
 > 
->
-> 
-> 
+>### What I'm Currently Working On
+>```
+>- Data Science with Python
+>- Learning Java
+>- Learning Web Development 
+> ```
 > 
 > ![](https://img.shields.io/badge/Pronouns-He%5CHim-lightgrey)
 > 
