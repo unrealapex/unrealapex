@@ -9,9 +9,10 @@
 > 
 >### What I'm Currently Working On
 >```
+>- Learning Web Development 
 >- Data Science with Python
 >- Learning Java
->- Learning Web Development 
+>
 > ```
 > 
 > ![](https://img.shields.io/badge/Pronouns-He%5CHim-lightgrey)
