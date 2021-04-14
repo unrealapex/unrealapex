@@ -10,8 +10,9 @@
 >### What I'm Currently Working On
 >```
 >- Learning Web Development 
->- Data Science with Python
 >- Learning Java
+>- Data Science with Python
+>
 >
 > ```
 > 
