@@ -16,7 +16,6 @@
 >
 > ```
 > 
-> ![](https://img.shields.io/badge/Pronouns-He%5CHim-lightgrey)
 > 
 
 <!--
