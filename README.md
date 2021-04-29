@@ -4,19 +4,33 @@
 >
 >![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex)
 >
->
+> ```
+>### My Arsenal
+> ```
+> ```
+>- Python
+>- Java*
+>- Javascript*
+>- Html*
+>- Kotlin*
 > 
+>* are langauges I am either learning or relearning
+> ```
+> ```
 >### What I'm Currently Working On
+> ```
+>
 >```
->- Learning Web Development 
+>- Relearning Web Development 
 >- Learning Java
 >- Data Science with Python
 >
 >
 > ```
-> 
-> 
-
+> ```
+> fun fact: I occassionally play chess in my free time
+> ```
+>
 <!--
 **UnrealApex/UnrealApex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
