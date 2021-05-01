@@ -21,6 +21,7 @@
 > ```
 >
 >```
+>- How to be more efficient using Vim
 >- Relearning Web Development 
 >- Learning Java
 >- Data Science with Python
