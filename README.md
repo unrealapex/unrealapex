@@ -13,6 +13,7 @@
 >- Javascript*
 >- Html*
 >- Kotlin*
+>- Decent knowledge of Vim keybinds
 > 
 >* are langauges I am either learning or relearning
 > ```
