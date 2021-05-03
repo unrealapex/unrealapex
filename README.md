@@ -15,7 +15,7 @@
 >- Kotlin*
 >- Decent knowledge of Vim keybinds
 > 
->* are langauges I am either learning or relearning
+>* are langauges I am learning 
 > ```
 > ```
 >### What I'm Currently Working On
