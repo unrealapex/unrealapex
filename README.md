@@ -33,6 +33,33 @@
 > fun fact: I occassionally play chess in my free time
 > ```
 >
+>```
+>### Tools I Use
+>```
+>```
+>```
+>#### Software
+>```
+>- Windows 10 
+>- Windows Terminal
+>- Vim
+>- Visual Studio Code
+>- Intellij IDEA
+>- Eclipse
+>- Pycharm
+>- Android Studio
+>- GitHub CLI
+>- Prettier 
+>```
+>```
+>#### Hardware
+>```
+>```
+>- MSI GE66 Raider Laptop(Intel Core I7 10th gen)(NVIDIA Geforce RTX 3080)(32GB RAM)
+>- Razer Basalisk V2
+>```
+>
+>
 <!--
 **UnrealApex/UnrealApex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
