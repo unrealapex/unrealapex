@@ -36,10 +36,12 @@
 >```
 >### Tools I Use
 >```
->```
+>
+> 
+> 
 > ```
+> #### Software
 > ```
->#### Software
 >```
 >- Windows 10 
 >- Windows Terminal
