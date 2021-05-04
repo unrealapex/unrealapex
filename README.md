@@ -30,9 +30,6 @@
 >
 >
 > ```
-> ```
-> fun fact: I occassionally play chess in my free time
-> ```
 >
 >```
 >### Tools I Use
@@ -51,6 +48,9 @@
 >- Prettier 
 >```
 >
+> ```
+> fun fact: I occassionally play chess in my free time
+> ```
 >
 >
 <!--
