@@ -7,6 +7,7 @@
 > ```
 >### My Coding Arsenal
 > ```
+> 
 > ```
 >- Python
 >- Java*
@@ -37,11 +38,6 @@
 >### Tools I Use
 >```
 >
-> 
-> 
-> ```
-> #### Software
-> ```
 >```
 >- Windows 10 
 >- Windows Terminal
