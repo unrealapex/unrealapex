@@ -54,13 +54,7 @@
 >- GitHub CLI
 >- Prettier 
 >```
->```
->#### Hardware
->```
->```
->- MSI GE66 Raider Laptop(Intel Core I7 10th gen)(NVIDIA Geforce RTX 3080)(32GB RAM)
->- Razer Basilisk V2
->```
+>
 >
 >
 <!--
