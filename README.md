@@ -1,33 +1,34 @@
 ## About Me
->
->[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
->
->![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex)
->
+>```
+> Hi there, I'm UnrealApex.
+> 
+> I'm currently interesting in Data Science and Web Development.
+> ```
+> 
 > ```
 >### My Coding Arsenal
 > ```
 > 
 > ```
 >- Python
->- Java*
->- Javascript*
->- Html*
->- Kotlin*
->- Decent knowledge of Vim keybinds
+>- Java
+>- Javascript
+>- Html
+>- Kotlin
+>- Vim commands
 > 
->* are langauges I am learning 
+>
 > ```
 > ```
->### What I'm Currently Working On
+>### I'm Currently Learning
 > ```
 >
 >```
->- How to be more efficient using Vim
->- Relearning Web Development 
->- Learning Java
+>- How to be a better developer
+>- Web Development 
+>- Java
 >- Data Science with Python
->
+>- how to be more efficent with Vim
 >
 > ```
 >
@@ -38,19 +39,34 @@
 >```
 >- Windows 10 
 >- Windows Terminal
+>- Visual Studio Code (with Vim emulation)
 >- Vim
->- Visual Studio Code
+>- Git
 >- Intellij IDEA
+>- Jupyter Notebook
 >- Eclipse
 >- Pycharm
 >- Android Studio
+>- Spyder 
 >- GitHub CLI
 >- Prettier 
 >```
+>```
+> 
+>fun fact: I play the guitar
 >
+>
+> My pronouns are he/him
 > ```
-> fun fact: I occassionally play chess in my free time
+> 
 > ```
+>### My GitHub Stats
+> ```
+> 
+>[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+>
+>![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex)
+>
 >
 >
 <!--
