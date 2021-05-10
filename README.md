@@ -42,8 +42,8 @@
 >- Visual Studio Code (with Vim emulation)
 >- Vim
 >- Git
->- Intellij IDEA
 >- Jupyter Notebook
+>- Intellij IDEA
 >- Eclipse
 >- Pycharm
 >- Android Studio
