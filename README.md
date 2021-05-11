@@ -1,67 +1,55 @@
-## About Me
->```
+# `About Me`
+>
 > Hi there, I'm UnrealApex.
 > 
 > I'm currently interesting in Data Science and Web Development.
-> ```
 > 
-> ```
->### My Coding Arsenal
-> ```
 > 
-> ```
->- Python
->- Java
->- Javascript
->- Html
->- Kotlin
->- Vim commands
 > 
->
-> ```
-> ```
->### I'm Currently Learning
-> ```
->
->```
->- How to be a better developer
->- Web Development 
->- Java
->- Data Science with Python
->- how to be more efficent with Vim
->
-> ```
->
->```
->### Tools I Use
->```
->
->```
->- Windows 10 
->- Windows Terminal
->- Visual Studio Code (with Vim emulation)
->- Vim
->- Git
->- Jupyter Notebook
->- Intellij IDEA
->- Eclipse
->- Pycharm
->- Android Studio
->- Spyder 
->- GitHub CLI
->- Prettier 
->```
->```
+> ### `My Coding Arsenal`
 > 
->fun fact: I play the guitar
->
->
-> My pronouns are he/him
-> ```
 > 
-> ```
->### My GitHub Stats
-> ```
+>- `Python`
+>- `Java`
+>- `Javascript`
+>- `Html`
+>- `Kotlin`
+>- `Vim commands`
+> 
+> 
+>### `I'm Currently Learning`
+>
+>- `How to be a better developer`
+>- `Web Development` 
+>- `Java`
+>- `Data Science with Python`
+>- `how to be more efficent with Vim`
+>
+>
+>### `Tools I Use`
+>
+>- `Windows 10` 
+>- `Windows Terminal`
+>- `Visual Studio Code (with Vim emulation)`
+>- `Vim`
+>- `Git`
+>- `Jupyter Notebook`
+>- `Intellij IDEA`
+>- `Eclipse`
+>- `Pycharm`
+>- `Android Studio`
+>- `Spyder` 
+>- `GitHub CLI`
+>- `Prettier` 
+>
+> 
+>`fun fact: I play the guitar`
+>
+>
+> `My pronouns are he/him`
+> 
+> 
+>### `My GitHub Stats`
 > 
 >[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 >
