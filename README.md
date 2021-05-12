@@ -23,15 +23,15 @@
 >- `Web Development` 
 >- `Java`
 >- `Data Science with Python`
->- `how to be more efficent with Vim`
+>- `How to be more efficent with Vim`
 >
 >
 >### `Tools I Use`
 >
 >- `Windows 10` 
 >- `Windows Terminal`
->- `Visual Studio Code (with Vim emulation)`
 >- `Vim`
+>- `Visual Studio Code (with Vim emulation)`
 >- `Git`
 >- `Jupyter Notebook`
 >- `Intellij IDEA`
