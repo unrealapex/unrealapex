@@ -31,7 +31,7 @@
 >- `Windows 10` 
 >- `Windows Terminal`
 >- `Vim`
->- `Visual Studio Code (with Vim emulation)`
+>- `Visual Studio Code` ([with Vim emulation](https://github.com/VSCodeVim/Vim))
 >- `Git`
 >- `Jupyter Notebook`
 >- `Intellij IDEA`
