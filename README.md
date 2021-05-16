@@ -17,13 +17,14 @@
 >- `Vim commands`
 > 
 > 
->### `I'm Currently Learning`
+>### `Goals`
 >
->- `How to be a better programmer`
->- `Web Development` 
->- `Java`
->- `Data Science with Python` 
->- `How to be more efficent with Vim`
+>- `become a better programmer`
+>- `become a full stack developer` 
+>- `be more efficent with Vim`
+>- `contribute more to open source`
+>- `get Java Certification from Oracle`
+>- `eventually finish a bunch of machine learning books I bought` 
 >
 >
 >### `Tools I Use`
@@ -44,10 +45,10 @@
 >- [`Prettier`](https://github.com/prettier/prettier) 
 >
 > 
->`fun fact: I play the guitar`
+> `fun fact: my favorite fruit is mango`
 >
 >
-> `My pronouns are he/him`
+> `my pronouns are he/him`
 > 
 > 
 >### `My GitHub Stats`
