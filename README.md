@@ -2,7 +2,7 @@
 >
 > Hi there, I'm UnrealApex.
 > 
-> I'm currently interesting in Data Science and Web Development.
+> I'm currently interesting in Web Development and Data Science.
 > 
 > 
 > 
@@ -10,37 +10,38 @@
 > 
 > 
 >- `Python`
->- `Java`
->- `Javascript`
->- `Html`
->- `Kotlin`
+>- `Java` (a little)
+>- `Javascript` (a little)
+>- `Html` (a little)
+>- `Kotlin` (a little)
 >- `Vim commands`
 > 
 > 
 >### `I'm Currently Learning`
 >
->- `How to be a better developer`
+>- `How to be a better programmer`
 >- `Web Development` 
 >- `Java`
->- `Data Science with Python`
+>- `Data Science with Python` 
 >- `How to be more efficent with Vim`
 >
 >
 >### `Tools I Use`
 >
->- `Windows 10` 
->- `Windows Terminal`
->- `Vim`
->- `Visual Studio Code` ([with Vim emulation](https://github.com/VSCodeVim/Vim))
->- `Git`
->- `Jupyter Notebook`
->- `Intellij IDEA`
->- `Eclipse`
->- `Pycharm`
->- `Android Studio`
->- `Spyder` 
->- `GitHub CLI`
->- `Prettier` 
+>- [`Windows 10`](https://www.microsoft.com/en-us/windows/get-windows-10) 
+>- [`Windows Terminal`](https://github.com/microsoft/terminal)
+>- [`Vim`](https://github.com/vim/vim)
+>- [`Visual Studio Code`](https://github.com/microsoft/vscode) ([with Vim emulation](https://github.com/VSCodeVim/Vim))
+>- [`Git`](https://git-scm.com/)
+>- [`Anaconda`](https://www.anaconda.com)
+>- [`Jupyter Notebook`](https://jupyter.org/)
+>- [`Eclipse`](https://www.eclipse.org/)
+>- [`Intellij IDEA`](https://www.jetbrains.com/idea/)
+>- [`Pycharm`](https://www.jetbrains.com/pycharm/)
+>- [`Android Studio`](https://developer.android.com/studio)
+>- [`Spyder`](https://jupyter.org/) 
+>- [`GitHub CLI`](https://github.com/cli/cli)
+>- [`Prettier`](https://github.com/prettier/prettier) 
 >
 > 
 >`fun fact: I play the guitar`
