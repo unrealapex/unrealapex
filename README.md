@@ -1,6 +1,6 @@
 # `About Me`
 >
-> Hi there, I'm UnrealApex.
+> Hi there 👋, I'm UnrealApex.
 > 
 > I'm currently interesting in Web Development and Data Science.
 > 
@@ -9,11 +9,11 @@
 > ### `My Coding Arsenal`
 > 
 > 
->- `Python`
+>- [`Python`](https://github.com/python/cpython)
 >- `Java` (a little)
 >- `Javascript` (a little)
 >- `Html` (a little)
->- `Kotlin` (a little)
+>- [`Kotlin`](https://github.com/JetBrains/kotlin) (a little)
 >- `Vim commands`
 > 
 > 
@@ -36,7 +36,7 @@
 >- [`Anaconda`](https://www.anaconda.com)
 >- [`Jupyter Notebook`](https://jupyter.org/)
 >- [`Eclipse`](https://www.eclipse.org/)
->- [`Intellij IDEA`](https://www.jetbrains.com/idea/)
+>- [`Intellij IDEA`](https://github.com/JetBrains/intellij-community)
 >- [`Pycharm`](https://www.jetbrains.com/pycharm/)
 >- [`Android Studio`](https://developer.android.com/studio)
 >- [`Spyder`](https://jupyter.org/) 
