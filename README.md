@@ -2,7 +2,7 @@
 >
 > Hi there 👋, I'm UnrealApex.
 > 
-> I'm currently interesting in Web Development and Data Science.
+> I'm currently interesting in Web Development, Data Science, and Desktop Applications.
 > 
 > 
 > 
@@ -24,23 +24,25 @@
 >- `be more efficent with Vim`
 >- `contribute more to open source`
 >- `get Java Certification from Oracle`
+>- `learn C++`
 >- `eventually finish a bunch of machine learning books I bought` 
 >
 >
 >### `Tools I Use`
 >
 >- [`Windows 10`](https://www.microsoft.com/en-us/windows/get-windows-10) 
+>- [`Firefox`](https://www.mozilla.org/en-US/firefox/new/)
 >- [`Windows Terminal`](https://github.com/microsoft/terminal)
 >- [`Vim`](https://github.com/vim/vim)
 >- [`Visual Studio Code`](https://github.com/microsoft/vscode) ([with Vim emulation](https://github.com/VSCodeVim/Vim))
 >- [`Git`](https://git-scm.com/)
 >- [`Anaconda`](https://www.anaconda.com)
->- [`Jupyter Notebook`](https://jupyter.org/)
+>- [`Jupyter Notebook`](https://github.com/jupyter/notebook )
 >- [`Eclipse`](https://www.eclipse.org/)
 >- [`Intellij IDEA`](https://github.com/JetBrains/intellij-community)
 >- [`Pycharm`](https://www.jetbrains.com/pycharm/)
 >- [`Android Studio`](https://developer.android.com/studio)
->- [`Spyder`](https://jupyter.org/) 
+>- [`Spyder`](https://github.com/spyder-ide/spyder) 
 >- [`GitHub CLI`](https://github.com/cli/cli)
 >- [`Prettier`](https://github.com/prettier/prettier) 
 >
