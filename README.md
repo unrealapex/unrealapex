@@ -11,8 +11,8 @@
 > 
 >- [`Python`](https://github.com/python/cpython)
 >- `Java` (a little)
->- `Javascript` (a little)
->- `Html` (a little)
+>- `Javascript` 
+>- `HTML` 
 >- [`Kotlin`](https://github.com/JetBrains/kotlin) (a little)
 >- `Vim commands`
 > 
@@ -23,6 +23,7 @@
 >- `become a full stack developer` 
 >- `be more efficent with Vim`
 >- `contribute more to open source`
+>- `learn web design`
 >- `get Java Certification from Oracle`
 >- `learn C++`
 >- `eventually finish a bunch of machine learning books I bought` 
