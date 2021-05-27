@@ -60,7 +60,7 @@
 >
 >![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex&theme=dark)
 >
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 >
 > ![](https://www.vim.org/images/vim_created.gif)
 <!--
