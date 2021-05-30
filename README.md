@@ -5,6 +5,11 @@
 > I'm currently interesting in Web Development, Data Science, and Desktop Applications.
 > 
 > 
+>[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&theme=gruvbox&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+>
+>![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex&theme=gruvbox)
+>
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=gruvbox&)](https://github.com/anuraghazra/github-readme-stats)
 > 
 > ### `My Coding Arsenal`
 > 
@@ -53,14 +58,6 @@
 >
 > `my pronouns are he/him`
 > 
-> 
->### `My GitHub Stats`
-> 
->[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
->
->![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex&theme=dark)
->
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 >
 > ![](https://www.vim.org/images/vim_created.gif)
 <!--
