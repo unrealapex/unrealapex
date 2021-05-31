@@ -10,7 +10,13 @@
 >![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex&theme=gruvbox)
 >
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=gruvbox&)](https://github.com/anuraghazra/github-readme-stats)
-> 
+>
+> ```css
+> .github-stats {
+>   color-scheme: gruvbox;
+>}
+> ```
+>
 > ### `My Coding Arsenal`
 > 
 > 
