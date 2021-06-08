@@ -5,17 +5,12 @@
 > I'm currently interesting in Web Development, Data Science, and Desktop Applications.
 > 
 > 
->[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&theme=gruvbox&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+>[![UnrealApex's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&theme=dark&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 >
->![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex&theme=gruvbox)
+>![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex&theme=dark)
 >
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=gruvbox&)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=dark&)](https://github.com/anuraghazra/github-readme-stats)
 >
-> ```css
-> .github-stats {
->   color-scheme: gruvbox;
->}
-> ```
 >
 > ### `My Coding Arsenal`
 > 
