@@ -37,12 +37,11 @@
 >
 >### `Tools I Use`
 >
->- [`Windows 10`](https://www.microsoft.com/en-us/windows/get-windows-10) 
 >- [`Firefox`](https://www.mozilla.org/en-US/firefox/new/)
 >- [`Windows Terminal`](https://github.com/microsoft/terminal)
->- [`Vim`](https://github.com/vim/vim)
->- [`Visual Studio Code`](https://github.com/microsoft/vscode) ([with Vim emulation](https://github.com/VSCodeVim/Vim))
 >- [`Git`](https://git-scm.com/)
+>- [`Visual Studio Code`](https://github.com/microsoft/vscode)
+>- [`Vim`](https://github.com/vim/vim)
 >- [`Anaconda`](https://www.anaconda.com)
 >- [`Jupyter Notebook`](https://github.com/jupyter/notebook )
 >- [`Eclipse`](https://www.eclipse.org/)
