@@ -48,18 +48,15 @@
 >- [`Intellij IDEA`](https://github.com/JetBrains/intellij-community)
 >- [`Pycharm`](https://www.jetbrains.com/pycharm/)
 >- [`Android Studio`](https://developer.android.com/studio)
->- [`Spyder`](https://github.com/spyder-ide/spyder) 
->- [`GitHub CLI`](https://github.com/cli/cli)
 >- [`Prettier`](https://github.com/prettier/prettier) 
 >
 > 
-> `fun fact: my favorite fruit is mango`
+> `When I'm not coding you can usually find me playing chess.`
 >
 >
 > `my pronouns are he/him`
-> 
+
 >
-> ![](https://www.vim.org/images/vim_created.gif)
 <!--
 **UnrealApex/UnrealApex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
