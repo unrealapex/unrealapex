@@ -5,10 +5,10 @@
  I'm currently interesting in Web Development, Data Science, and Desktop App Dev.
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&include_all_commits" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&include_all_commits&border_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&layout=compact&border_color=ffffff" />
 </a>
 
 
