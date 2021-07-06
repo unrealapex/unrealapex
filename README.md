@@ -21,8 +21,7 @@
 - [Kotlin](https://github.com/JetBrains/kotlin) (a little)
 - Javascript 
 - HTML 
-
-- Vim commands
+- [Vim](https://github.com/vim/vim) commands
  
  
 ### Current Goals
@@ -32,6 +31,7 @@
 - become a full stack developer
 - learn web design 
 - dwell more in data science
+- do a [Kaggle](https://www.kaggle.com/) competition
 - get Java Certification from Oracle
 - learn C++
 - eventually finish a bunch of machine learning books I bought 
@@ -47,11 +47,11 @@
 - [Stack Overflow](https://stackoverflow.com/)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Eclipse](https://www.eclipse.org/)
+- [Anaconda](https://www.anaconda.com)
+- [Jupyter Notebook](https://github.com/jupyter/notebook )
 - [Android Studio](https://developer.android.com/studio)
 - [Prettier](https://github.com/prettier/prettier) 
 - [Vim](https://github.com/vim/vim)
-- [Anaconda](https://www.anaconda.com)
-- [Jupyter Notebook](https://github.com/jupyter/notebook )
 - [Intellij IDEA](https://github.com/JetBrains/intellij-community)
 
  
