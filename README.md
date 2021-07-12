@@ -21,6 +21,7 @@
 - [Kotlin](https://github.com/JetBrains/kotlin) (a little)
 - Javascript 
 - HTML 
+- Markdown
 - [Vim](https://github.com/vim/vim) commands
  
  
