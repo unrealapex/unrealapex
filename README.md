@@ -59,7 +59,7 @@
  When I'm not coding you can usually find me playing chess or typing on [Monkeytype](https://monkeytype.com/).
 
 
-### Latest Chess Game
+### Latest Chess Game (I'm white)
 ![board](https://user-images.githubusercontent.com/79121360/126047381-8b5ce8e9-34f8-4087-b888-a02137f05c46.gif)
 
 
