@@ -60,10 +60,7 @@
 
 
 ### [Latest Chess Game](https://www.chess.com/game/live/20286623925) (as white)
-![board](https://user-images.githubusercontent.com/79121360/126047381-8b5ce8e9-34f8-4087-b888-a02137f05c46.gif)
-
-
-
+<a href="https://www.chess.com/game/live/20286623925"><img src="https://user-images.githubusercontent.com/79121360/126047381-8b5ce8e9-34f8-4087-b888-a02137f05c46.gif" height="300px" width="auto"></a>
 
  My pronouns are he/him.
 
