@@ -17,12 +17,14 @@
  
  
 - [Python](https://github.com/python/cpython)
-- Java
-- [Kotlin](https://github.com/JetBrains/kotlin) (a little)
-- Javascript 
+- Java*
+- [Kotlin](https://github.com/JetBrains/kotlin)*
+- Javascript* 
 - HTML 
 - Markdown
 - [Vim](https://github.com/vim/vim) commands
+
+<sub>* still learning</sub>
  
  
 ### Current Goals
