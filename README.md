@@ -24,41 +24,27 @@
 - Markdown
 - [Vim](https://github.com/vim/vim) commands
 
-<sub>* still learning</sub>
+<sub>* still learning :p</sub>
  
  
 ### Current Goals
 
 - contribute more to open source
-- be the best me I can be
-- become a full stack developer
-- learn web design 
-- dwell more in data science
-- do a [Kaggle](https://www.kaggle.com/) competition
-- get Java Certification from Oracle
+- do more data science
 - learn C++
-- eventually finish a bunch of machine learning books I bought 
-- be more efficent with Vim
 
 
 
 ### Tools I Use
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [ClickUp](https://clickup.com/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-- [Git](https://git-scm.com/)
-- [Stack Overflow](https://stackoverflow.com/)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
-- [Eclipse](https://www.eclipse.org/)
-- [Anaconda](https://www.anaconda.com)
-- [Jupyter Notebook](https://github.com/jupyter/notebook )
-- [Android Studio](https://developer.android.com/studio)
-- [Prettier](https://github.com/prettier/prettier) 
-- [Vim](https://github.com/vim/vim)
-- [Intellij IDEA](https://github.com/JetBrains/intellij-community)
+- [Vim](https://github.com/vim/vim) 
 
  
- When I'm not coding you can usually find me playing chess or typing on [Monkeytype](https://monkeytype.com/).
+ When I'm not coding you can usually find me learning, playing chess or typing on [Monkeytype](https://monkeytype.com/).
 
 
 ### [Latest Chess Game](https://www.chess.com/game/live/20286623925) (as white)
