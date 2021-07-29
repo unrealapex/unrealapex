@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&include_all_commits&border_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&layout=compact&border_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&exclude_repo=Hello-World&border_color=ffffff" />
 </a>
 
 
