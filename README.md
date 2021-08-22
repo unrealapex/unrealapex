@@ -40,7 +40,7 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [ClickUp](https://clickup.com/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-- [Visual Studio Code](https://github.com/microsoft/vscode)
+- [Visual Studio Code](https://github.com/microsoft/vscode) <sub> with [vim emulation](https://github.com/VSCodeVim/Vim) of course!</sub>
 - [Vim](https://github.com/vim/vim) 
 
  
