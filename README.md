@@ -1,6 +1,6 @@
 # About Me
 
- Hi there 👋, I'm UnrealApex.
+ Hi there 👋, I'm Aaron.
  
  I'm currently interesting in Web Development, Data Science, and Desktop App Dev.
  
@@ -30,7 +30,8 @@
 ### Current Goals
 
 - contribute more to open source
-- do more data science
+- continue machine learning and AI stuff
+- learn Java
 - learn C++
 
 
