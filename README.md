@@ -2,7 +2,7 @@
 
  Hi there 👋, I'm Aaron.
  
- I'm currently interesting in Web Development, Data Science, and Desktop App Dev.
+ I'm currently interesting in web development, but I'd like to try data science and developing desktop applications.
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrealapex&count_private=true&show_icons=true&include_all_commits&border_color=ffffff" />
