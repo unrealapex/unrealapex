@@ -53,7 +53,7 @@
 
  My pronouns are he/him.
 
-This file was edited with ![Vim](https://www.vim.org/images/vim_on_fire.gif)
+This file was edited with [![Vim](https://www.vim.org/images/vim_on_fire.gif)](https://www.vim.org/)
 
 <!--
 **UnrealApex/UnrealApex** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
