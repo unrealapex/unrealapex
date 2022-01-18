@@ -48,8 +48,8 @@
  When I'm not coding you can usually find me learning, playing chess or typing on [Monkeytype](https://monkeytype.com/).
 
 
-### [Latest Chess Game](https://www.chess.com/game/live/31204818317) (as white)
-<a href="https://www.chess.com/game/live/20286623925"><img src="https://images.chesscomfiles.com/uploads/game-gifs/90px/green/neo/0/cc/0/0/bUNaSkNLMFNsQjl6a3N6MGd2IVRLVDJUanpTS2JxWVFCS1RLdks_IWZ0IW9kdm8hdjE,.gif" height="300px" width="auto"></a>
+### [Latest Chess Game](https://www.chess.com/game/live/36210546999) (as white)
+<a href="https://www.chess.com/game/live/36210546999"><img src="https://images.chesscomfiles.com/uploads/game-gifs/90px/green/neo/0/cc/0/0/bUMwU2d2OUlsQklQa0FZSUJKM1ZKUzFTZnQhVGVnV0dDS1ROdFU4MFVOPyFic1BXc3lYUGRS.gif" height="300px" width="auto"></a>
 
  My pronouns are he/him.
 
