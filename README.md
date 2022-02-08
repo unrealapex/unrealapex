@@ -46,6 +46,9 @@
 
  
  When I'm not coding you can usually find me learning, playing chess or typing on [Monkeytype](https://monkeytype.com/).
+ 
+ ### Currently playing:
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v7jtxe6rce9qw4agwx1emj17b&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=v7jtxe6rce9qw4agwx1emj17b&redirect=true)
 
 
 ### [Latest Chess Game](https://www.chess.com/game/live/36210546999) (as white)
