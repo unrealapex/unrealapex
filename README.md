@@ -1,5 +1,5 @@
 <!-- README inspired by @bailey -->
-<img align="left" width="310" src="https://raw.githubusercontent.com/UnrealApex/UnrealApex/main/laser-cat.png"> <samp> hi, i'm aaron<br>
+<img align="left" width="310" src="https://avatars.githubusercontent.com/u/79121360?v=4"> <samp> hi, i'm aaron<br>
   👩🏼‍💻 i code stuff in my free time <br> 
   🌁 based in ca <br>
   🛸 playing: apex legends, fortnite, tf2, csgo<br>
