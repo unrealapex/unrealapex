@@ -3,7 +3,7 @@
   👩🏼‍💻 i code stuff in my free time <br> 
   🌁 based in ca <br>
   🛸 playing: apex legends, fortnite, tf2, csgo<br>
-  🧰 tools: vs code/vim, chrome, windows terminal<br>
+  🧰 tools: vim, chrome, windows terminal<br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` on the internets <br>
   📖 reading: i don't read often, but when i do, i like reading dystopian novels <br> 
   ⚡ fun fact: i type around 120 words per minute <br>
