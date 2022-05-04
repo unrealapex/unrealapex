@@ -1,4 +1,5 @@
 <!-- README inspired by @bailey -->
+<samp> hi, i'm aaron<br>
   👩🏼‍💻 i code stuff in my free time <br> 
   🌁 based in ca <br>
   🛸 playing: apex legends, fortnite, tf2, csgo<br>
