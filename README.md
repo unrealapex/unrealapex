@@ -5,7 +5,7 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: apex legends, fortnite, tf2, csgo
+  🛸 playing: valorant, fortnite, tf2
   <br>
   🧰 tools: neovim, chrome, windows terminal
   <br>
