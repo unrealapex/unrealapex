@@ -9,7 +9,7 @@
   <br>
   🧰 tools: neovim, chrome, windows terminal
   <br>
-  📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` on the internets
+  📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
   📖 reading: i don't read often, but when i do, i like reading dystopian novels
   <br>
