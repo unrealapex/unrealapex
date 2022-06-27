@@ -1,4 +1,4 @@
-<!-- README inspired by @bailey -->
+<!-- README inspired by @bailey's -->
 <samp> hi, i'm aaron
   <br>
   👩🏼‍💻 i code stuff in my free time
