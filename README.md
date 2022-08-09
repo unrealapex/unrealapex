@@ -7,7 +7,7 @@
   <br>
   🛸 playing: valorant, fortnite, tf2
   <br>
-  🧰 tools: neovim, chrome, windows terminal
+  🧰 tools: neovide, chrome, windows terminal
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
