@@ -5,9 +5,9 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: valorant, fortnite, tf2
+  🛸 playing: fortnite, tf2, valorant
   <br>
-  🧰 tools: neovide, chrome, windows terminal
+  🧰 tools: neovide, firefox, keyboard
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
