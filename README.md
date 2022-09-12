@@ -5,7 +5,7 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: fortnite, tf2, valorant
+  🛸 playing: fortnite, tf2, valorant, genshin impact
   <br>
   🧰 tools: neovide, firefox, keyboard
   <br>
@@ -13,7 +13,7 @@
   <br>
   📖 reading: i don't read often, but when i do, i like reading dystopian novels
   <br>
-  ⚡ fun fact: i type around 120 words per minute and i like boba 🧋
+  ⚡ fun fact: i type around 130 words per minute and i like boba 🧋
   <br>
   🎧 listening to:  </samp><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v7jtxe6rce9qw4agwx1emj17b&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
