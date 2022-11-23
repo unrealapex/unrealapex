@@ -5,9 +5,9 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: fortnite, tf2, valorant, genshin impact
+  🛸 playing: fortnite, tf2, genshin impact
   <br>
-  🧰 tools: neovide, firefox, keyboard
+  🧰 tools: neovide, firefox, mechanical keyboard
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
