@@ -1,19 +1,19 @@
 <!-- README inspired by @bailey's -->
 <samp> hi, i'm aaron
   <br>
-  👩🏼‍💻 i code stuff in my free time
+  👩🏼‍💻 i code stuff
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: fortnite, tf2, genshin impact
+  🛸 playing: apex legends, tf2, genshin impact, chess
   <br>
   🧰 tools: neovide, firefox, mechanical keyboard
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
-  📖 reading: i don't read often, but when i do, i like reading dystopian novels
+  📖 reading: i don't read often, but when i do, i gravitate towards dystopian novels
   <br>
-  ⚡ fun facts: i type around 130 words per minute and i like boba 🧋
+  ⚡ fun fact: i like boba 🧋
   <br>
   🎧 listening to:  </samp><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v7jtxe6rce9qw4agwx1emj17b&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
