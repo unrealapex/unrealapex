@@ -4,8 +4,6 @@
 	"name": "desktop-lite",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
-        "forwardPorts": [6080, 5901],
-
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
