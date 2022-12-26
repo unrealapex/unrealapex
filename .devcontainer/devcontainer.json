@@ -4,6 +4,9 @@
 	"name": "desktop-lite",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
+	"dockerFile": "Dockerfile",
+	"overrideCommand": false,
+	"runArgs": [ "--init", "--security-opt", "seccomp=unconfined", "--shm-size=1g"],
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -22,9 +25,10 @@
             "upgradePackages": true,
             "nonFreePackages": false
           }
-	}
+	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
+	"forwardPorts": [6080, 5901],
 
 	// Configure tool-specific properties.
 	// "customizations": {},
