@@ -4,7 +4,8 @@ USER root
 COPY library-scripts/desktop-lite-debian.sh /tmp/library-scripts/
 RUN apt-get update && bash /tmp/library-scripts/desktop-lite-debian.sh
 
-RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -y firefox-esr
+# install google chrome
+RUN cd /workspaces/UnrealApex/.devcontainer && ./google-chrome.deb
 
 ENV DBUS_SESSION_BUS_ADDRESS="autolaunch:" \
     VNC_RESOLUTION="1280x720x16" \
