@@ -5,9 +5,9 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: apex legends, team fortress 2, genshin impact, chess
+  🛸 playing: team fortress 2, apex legends , genshin impact, chess
   <br>
-  🧰 tools: neovim, brave, mechanical keyboard
+  🧰 tools: neovim, google chrome, mechanical keyboard
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
