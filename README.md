@@ -7,7 +7,7 @@
   <br>
   🛸 playing: team fortress 2, apex legends , genshin impact, chess
   <br>
-  🧰 tools: neovim, google chrome, mechanical keyboard
+  🧰 tools: neovim, firefox, mechanical keyboard
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
   <br>
