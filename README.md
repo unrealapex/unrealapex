@@ -9,7 +9,7 @@
   <br>
   🧰 tools: neovim, firefox, mechanical keyboard
   <br>
-  📡 [@unrealapex](https://github.com/unrealapex) and i go by `UnrealApex` or just `Apex` on the internets
+  📡 [@unrealapex](https://github.com/unrealapex) and i go by `unrealapex` or just `apex` on the internets
   <br>
   📖 reading: i don't read often, but when i do, i gravitate towards dystopian novels
   <br>
@@ -32,14 +32,14 @@
     <td> 
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=UnrealApex&show_icons=true&theme=dracula&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=unrealapex&show_icons=true&theme=dracula&count_private=true" 
       alt="account stats"
       /> 
    </td>
     <td>
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealApex&layout=compact&theme=dracula&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&layout=compact&theme=dracula&langs_count=6" 
       alt="top languages" />
    </td>
   </tr>
@@ -49,7 +49,7 @@
 
 
 <!--
-**UnrealApex/UnrealApex** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+**unrealapex/unrealapex** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
