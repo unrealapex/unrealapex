@@ -7,9 +7,9 @@
   <br>
   🛸 playing: team fortress 2, apex legends, genshin impact, chess
   <br>
-  🧰 tools: neovim, firefox, mechanical keyboard
+  🧰 tools: kitty, neovim, brave
   <br>
-  📡 [@unrealapex](https://github.com/unrealapex) and i go by `unrealapex` or just `apex` on the internets
+  📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` or `unrealapex` on the internets
   <br>
   📖 reading: i don't read often, but when i do, i gravitate towards dystopian novels
   <br>
