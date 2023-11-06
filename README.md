@@ -7,7 +7,7 @@
   <br>
   🛸 playing: team fortress 2, apex legends, genshin impact, chess
   <br>
-  🧰 tools: kitty, neovim, brave
+  🧰 tools: berry, kitty, firefox
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` or `unrealapex` on the internets
   <br>
