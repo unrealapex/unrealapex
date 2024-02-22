@@ -7,7 +7,7 @@
   <br>
   🛸 playing: team fortress 2, apex legends, genshin impact, chess
   <br>
-  🧰 tools: bspwm, kitty, firefox
+  🧰 tools: gnu/linux, dwm, wezterm, firefox
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` or `unrealapex` on the internets
   <br>
