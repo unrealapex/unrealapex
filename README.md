@@ -34,14 +34,14 @@
     <td> 
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=unrealapex&show_icons=true&theme=dracula&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=unrealapex&show_icons=true&theme=tokyonight&count_private=true" 
       alt="account stats"
       /> 
    </td>
     <td>
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&layout=compact&theme=dracula&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex&layout=compact&theme=tokyonight&langs_count=6" 
       alt="top languages" />
    </td>
   </tr>
