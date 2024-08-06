@@ -18,7 +18,7 @@
   most of my personal projects are hosted on [sourcehut](https://git.sr.ht/~unrealapex/)
   <br>
   🎧 listening to:  </samp><br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v7jtxe6rce9qw4agwx1emj17b&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![last.fm music data](https://lastfm-recently-played.vercel.app/api?user=unrealapex)](https://www.last.fm/user/unrealapex)
 
 <details closed>
 <summary> <b>github stats</b> </summary>
