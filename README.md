@@ -5,7 +5,7 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: team fortress 2, warfork, genshin impact, chess
+  🛸 playing: quake, warfork, team fortress 2, genshin impact
   <br>
   🧰 tools: gnu/linux, dwm, firefox
   <br>
