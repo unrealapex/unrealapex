@@ -5,7 +5,7 @@
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: quake, warfork, team fortress 2, genshin impact
+  🛸 playing: openarena, the finals, team fortress 2, genshin impact
   <br>
   🧰 tools: gnu/linux, dwm, firefox
   <br>
