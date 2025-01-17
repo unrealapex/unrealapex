@@ -15,7 +15,7 @@
   <br>
   ⚡ fun fact: i like boba 🧋
   <br>
-  most of my personal projects are hosted on [sourcehut](https://git.sr.ht/~unrealapex/)
+  most of my personal projects are hosted on [codeberg](https://codeberg.org/unrealapex)
   <br>
   🎧 listening to:  </samp><br>
 [![last.fm music data](https://lastfm-recently-played.vercel.app/api?user=unrealapex)](https://www.last.fm/user/unrealapex)
