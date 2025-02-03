@@ -7,7 +7,7 @@
   <br>
   🛸 playing: openarena, the finals, team fortress 2, genshin impact
   <br>
-  🧰 tools: gnu/linux, dwm, firefox
+  🧰 tools: linux, dwm, firefox
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` or `unrealapex` on the internets
   <br>
