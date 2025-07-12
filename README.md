@@ -1,19 +1,19 @@
 <!-- README inspired by @bailey's -->
-<samp> hi, i'm unrealapex
+<samp> hi, i'm erin
   <br>
-  👩🏼‍💻 i code stuff
+  👩‍💻 i code stuff
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: openarena, the finals, team fortress 2, genshin impact
+  🛸 playing: openarena, chess, minetest
   <br>
-  🧰 tools: linux, dwm, firefox
+  🧰 tools: unix, vi, sh
   <br>
-  📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` or `unrealapex` on the internets
+  📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` and `unrealapex` on the internets
   <br>
   📖 reading: i don't read often, but when i do, i gravitate towards dystopian novels
   <br>
-  ⚡ fun fact: i like boba 🧋
+  🧋 fun fact: i like boba
   <br>
   most of my personal projects are hosted on [codeberg](https://codeberg.org/unrealapex)
   <br>
