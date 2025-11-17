@@ -7,7 +7,7 @@
   <br>
   🛸 playing: openarena, chess, minetest
   <br>
-  🧰 tools: vis, sh, posix utils
+  🧰 tools: nvim, sh, posix utils
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` and `unrealapex` on the internets
   <br>
