@@ -1,13 +1,11 @@
 <!-- README inspired by @bailey's -->
-<samp> hi, i'm erin
-  <br>
-  👩‍💻 i code stuff
+<samp> hi, i'm grace
   <br>
   🌁 based in ca
   <br>
-  🛸 playing: openarena, chess, minetest
+  🛸 playing: team fortress 2, openarena
   <br>
-  🧰 tools: nvim, sh, posix utils
+  🧰 tools: kakoune, sh, posix utils
   <br>
   📡 [@unrealapex](https://github.com/unrealapex) and i go by `unreal` and `unrealapex` on the internets
   <br>
